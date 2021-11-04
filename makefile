@@ -2,7 +2,7 @@ basic=basicClassification
 adv=advancedClassificationLoop
 rec=advancedClassificationRecursion
 # to use dynamic write the path of the folder export LD_LIBRARY_PATH=/home/username/foo:$LD_LIBRARY_PATH
-all: mains maindrec maindloop loops recursives recursived loopd
+all: loopd loops recursived recursives maindloop maindrec mains
 
 #loops will create a static library using the loops option
 loops: libclassloops.a
