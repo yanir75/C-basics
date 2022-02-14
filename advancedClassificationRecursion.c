@@ -33,10 +33,16 @@ int isPali(int x ,int rev)
             return isPali(x/10,rev);
     }
 }
+// checks if the number is a palindrome using recursion
 int isPalindrome(int x)
 {      int reverse=isPali(x,0);
        return reverse==x;
 }
+/* will return if a number is Armstrong number
+An Armstrong number is an n-digit number that is equal to the sum of the nth powers of its digits.
+For Example: 407 = 43 + 03 + 73 = 64 + 0 + 343 = 407
+using recursion
+*/
 int isArmstrong(int x)
 {
     int length = lenNum(x);
