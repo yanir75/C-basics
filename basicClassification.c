@@ -1,5 +1,9 @@
 #include <math.h>
 
+/*Strong number is a special number whose sum of the factorial of digits is equal to the original
+number. For Example: 145 is strong number
+1! + 4! + 5! = 145
+*/
 int isStrong(int x) 
 {
 	int copyX=x;
@@ -18,6 +22,7 @@ int isStrong(int x)
 	}
 	return answer==x;
 }
+/* checks if a number is a prime number
 int isPrime(int x)
 {
         int rootX=sqrt(x);
