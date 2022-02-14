@@ -16,7 +16,7 @@ For Example: 407 = 43 + 03 + 73 = 64 + 0 + 343 = 407
 
 ------
 # How to use
-gcc is required.
+gcc and make are required.
 
 First clone the repository
 ```
