@@ -24,4 +24,6 @@ Use the make file
 ```
 make all
 ```
+Then choose from the options
+mains maindrec maindloop
 
