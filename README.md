@@ -20,7 +20,7 @@ gcc and make are required.
 
 First clone the repository
 ```
-git clone
+git clone https://github.com/yanir75/C-basics.git
 ```
 Use the make file
 ```
