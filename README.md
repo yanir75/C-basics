@@ -2,7 +2,7 @@
 
 In this project we will create four basic functions.
 
-1. isStrong. Strong number is a special number whose sum of the factorial of digits is equal to the original
+1.isStrong. Strong number is a special number whose sum of the factorial of digits is equal to the original
 number. For Example: 145 is strong number
 
 2.isPrime will return true if a number is prime number false otherwise.
