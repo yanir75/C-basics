@@ -22,7 +22,7 @@ int isStrong(int x)
 	}
 	return answer==x;
 }
-/* checks if a number is a prime number
+// checks if a number is a prime number
 int isPrime(int x)
 {
         int rootX=sqrt(x);
