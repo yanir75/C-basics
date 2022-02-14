@@ -12,3 +12,16 @@ number. For Example: 145 is strong number
 4.isArmstrong will return if a number is Armstrong number
 An Armstrong number is an n-digit number that is equal to the sum of the nth powers of its digits.
 For Example: 407 = 43 + 03 + 73 = 64 + 0 + 343 = 407
+
+
+------
+# How to use
+First clone the repository
+```
+git clone
+```
+Use the make file
+```
+make all
+```
+
