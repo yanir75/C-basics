@@ -25,5 +25,13 @@ Use the make file
 make all
 ```
 Then choose from the options
-mains maindrec maindloop
+mains
+maindrec
+maindloop
+All will require you entering a number.
+mains will check if a number is prime and strong
+maindrec and maindloop will check if a number is a palindrome and armstrong
 
+```
+./<filename>
+```
