@@ -1,4 +1,5 @@
 #include <math.h>
+// checks if a number is a Palindrome
 int isPalindrome(int x)
 {
         int reverseX=0;
